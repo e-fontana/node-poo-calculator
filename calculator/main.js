@@ -27,6 +27,6 @@ calculator.setOperator('divisao');
 calculator.appendNumber('3');
 console.log(calculator.calculate());
 
-// Olá, Pedro! Caso queira testar os erros, descomente as linhas abaixo:
+// Olá, Pablo! Caso queira testar os erros, descomente as linhas abaixo:
 // calculator.setOperator('invalidOperator');
 // calculator.appendNumber('invalidNumber');
